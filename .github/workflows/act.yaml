@@ -21,7 +21,7 @@ jobs:
       - name: Install Node.js
         uses: actions/setup-node@v1
       - name: CodeThreat Github Action Scanner
-        uses: CodeThreat/codethreat-scan-action@v1.0.12
+        uses: thyldrm/thyldrm@v31
 
 
 
